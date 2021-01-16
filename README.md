@@ -1,6 +1,6 @@
 #   Portfolio for Developers :star2:
 
-## Site Url: https://kedarbartake.github.io<br />
+## Site Url: https://kedarbartake98.github.io<br />
 
 
 A simple and elegant one-pager with a super vibrant color shifting palette (which I guess you can always tone down if it's a little too vibrant for you), 
